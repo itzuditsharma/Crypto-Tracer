@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCKx_15t_dtHobxSAOUvBXeNbLN6xTR4jo",
+    apiKey: "YOUR_API_KEY",
     authDomain: "crypto-hunter-a0856.firebaseapp.com",
     projectId: "crypto-hunter-a0856",
     storageBucket: "crypto-hunter-a0856.appspot.com",
