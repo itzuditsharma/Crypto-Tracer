@@ -1,6 +1,9 @@
 # Crypto-Tracer
 Crypto Tracer is a sleek and user-friendly web application that helps you track and monitor cryptocurrency prices and market trends in real-time. Built with modern web technologies, it leverages the CoinGecko API to provide live price updates, market cap rankings, and 24-hour percentage changes. Additionally, you can open detailed charts for different cryptocurrencies and wishlist your favorite coins for quick access.
 
+# Project link: 
+https://crypto-hunter-a0856.web.app/
+
 # Features
 - **Real-Time Tracking:** Stay up-to-date with the latest cryptocurrency prices and market changes.
 - **Market Insights:** View cryptocurrencies ranked by market cap, 24-hour changes, and other key statistics.
